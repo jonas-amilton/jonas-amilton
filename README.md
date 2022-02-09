@@ -1,4 +1,4 @@
-### Olá! Eu meu nome é Jonas 👋
+### Olá! Meu nome é Jonas 👋
 
 - 👷🏽 Hoje trabalho como Inspetor de Qualidade na Stihl
 - 👨🏽‍🎓 Cursando Sistemas para Internet na Unisinos
