@@ -2,7 +2,6 @@
 
 - 👷🏽 Trabalho como Inspetor de Qualidade na Stihl
 - 👨🏽‍🎓 Cursando Sistemas para Internet na Unisinos 2/6
-- 👨🏽‍🎓 Aluno #teufuturo
 - 👨🏽‍💻 Estudando Java e JavaScript
 
 
