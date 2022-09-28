@@ -2,7 +2,8 @@
 
 - 👷🏽 Trabalho como Inspetor de Qualidade na Stihl
 - 👨🏽‍🎓 Cursando Sistemas para Internet na Unisinos 3/6
-- 👨🏽‍💻 Estudando Java e JavaScript
+- 👨🏽‍💻 Estudando JavaScript
+- 👨🏽‍💻 Tenho interesse em aprender Java
 
 
 <div align="center">
