@@ -1,9 +1,7 @@
-### Olá! Meu nome é Jonas Silva
+### Hi! My name is Jonas Silva
 
-- 👷🏽 Trabalho como Inspetor de Qualidade na Stihl
-- 👨🏽‍🎓 Cursando Sistemas para Internet na Unisinos 3/6
-- 👨🏽‍💻 Estudando JavaScript
-- 👨🏽‍💻 Tenho interesse em aprender Java
+- 👨🏽‍🎓 I'm a student internet systems at Unisinos 3/6
+- 👨🏽‍💻 Currently Learning JavaScript
 
 
 <div align="center">
