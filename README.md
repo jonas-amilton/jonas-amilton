@@ -1,6 +1,5 @@
 ### Hi! My name is Jonas Silva
 
-- 👨🏽‍🎓 I'm a student internet systems at Unisinos 3/6
 - 👨🏽‍💻 Currently Learning JavaScript
 
 
