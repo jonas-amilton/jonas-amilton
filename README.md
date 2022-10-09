@@ -18,7 +18,7 @@
    </a>
 </div>
 
-<div style="display: inline_block" align="center">
+<div align="center">
   <a href="https://github.com/jonas-amilton">
   <img
        width="48%"
@@ -30,9 +30,10 @@
   />
 </div>
   
-<div style="display: inline_block" align="center">
+<div>
   <br>
   <img
+       align="center"
        alt="Jonas-JAVA"
        height="30"
        width="40"
@@ -40,18 +41,21 @@
    />
   
   <img
+       align="center"
        alt="Jonas-JAVASCRIPT"
        height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
    />
   
   <img
+       align="center"
        alt="Jonas-HTML"
        height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
    />
   
   <img
+       align="center"
        alt="Jonas-CSS"
        height="30"
        width="40"
@@ -59,6 +63,7 @@
    />
   
   <img
+       align="center"
        alt="Jonas-BOOTSTRAP"
        height="30"
        width="40"
@@ -66,6 +71,7 @@
    />
   
   <img
+       align="center"
        alt="Jonas-GIT"
        height="30"
        width="40"
