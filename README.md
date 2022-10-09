@@ -14,9 +14,8 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=7&theme=dark"
   />
 </div>
-  
-<div>
   <br>
+  
   <img
        align="center"
        alt="Jonas-JAVA"
@@ -62,8 +61,6 @@
        width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
    />
-          
-</div>
 
   
   ##
