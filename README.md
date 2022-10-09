@@ -2,21 +2,6 @@
 
 - 👨🏽‍💻 Currently Learning JavaScript
 
-<div>
-   <a href="https://dev.to/jonasamilton"
-      target="_blank">
-     <img
-          src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
-     />
-   </a>
-  
-   <a href="https://www.linkedin.com/in/xjonas117/"
-      target="_blank">
-     <img
-          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      />
-   </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/jonas-amilton">
@@ -79,6 +64,20 @@
    />
           
 </div>
+
+<a href="https://dev.to/jonasamilton"
+      target="_blank">
+     <img
+          src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
+     />
+   </a>
+  
+   <a href="https://www.linkedin.com/in/xjonas117/"
+      target="_blank">
+     <img
+          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      />
+   </a>
   
   ##
   
