@@ -1,15 +1,6 @@
 ### Hi! My name is Jonas Silva
 
 - 👨🏽‍💻 Currently Learning JavaScript
-
-  ##
-
-<div align="center">
-  <a href="https://github.com/jonas-amilton">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-amilton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
   
   ##
   
@@ -30,4 +21,13 @@
  
   ![Snake animation](https://github.com/jonas-amilton/jonas-amilton/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/jonas-amilton">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-amilton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
