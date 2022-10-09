@@ -18,7 +18,7 @@
    </a>
 </div>
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/jonas-amilton">
   <img
        width="48%"
