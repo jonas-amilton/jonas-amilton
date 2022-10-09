@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Currently Learning JavaScript
 
-<p align="center">
+<div>
    <a href="https://dev.to/jonasamilton"
       target="_blank">
      <img
@@ -16,7 +16,7 @@
           src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       />
    </a>
-</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/jonas-amilton">
