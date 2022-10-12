@@ -1,7 +1,7 @@
 ### Hi! My name is Jonas Silva
 
-- 👨🏽‍💻 Currently learning JavaScript
 - 👨🏽‍💻 Coding since 2022
+- 👨🏽‍💻 Currently learning JavaScript
 
 
 <div align="center">
