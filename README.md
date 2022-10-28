@@ -16,7 +16,7 @@ Hi! I´m Jonas, and welcome to my profile! <img src="https://media.giphy.com/med
 </div>
   <hr>
 
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=techjuliana&left_color=green&right_color=red)
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jonas-amilton&left_color=green&right_color=red)
 
  
  <hr>
