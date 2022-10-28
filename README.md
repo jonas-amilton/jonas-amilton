@@ -25,7 +25,8 @@
  <a href="https://dev.to/jonasamilton" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"  target="_blank"></a>
  <a href="https://www.linkedin.com/in/jonas-ag-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
   
+    ![Snake animation](https://github.com/jonas-amilton/jonas-amilton/blob/output/github-contribution-grid-snake.svg)
+
 </div> 
 
   
-  ![Snake animation](https://github.com/jonas-amilton/jonas-amilton/blob/output/github-contribution-grid-snake.svg)
