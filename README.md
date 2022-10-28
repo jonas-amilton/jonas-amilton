@@ -27,5 +27,3 @@
   
 
 </div> 
- 
-    ![Snake animation](https://github.com/jonas-amilton/jonas-amilton/blob/output/github-contribution-grid-snake.svg)
