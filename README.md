@@ -10,7 +10,6 @@ Hi! I´m Jonas, and welcome to my profile! <img src="https://media.giphy.com/med
  
 <div> 
  <div align="center">
-  <a href="https://www.youtube.com/channel/UCENSb4uzt2RI-N-JKk6CMjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/jonasamilton" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-ag-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
