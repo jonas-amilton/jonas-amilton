@@ -4,7 +4,7 @@ Hi! I´m Jonas, and welcome to my profile! <img src="https://media.giphy.com/med
 
 <hr>
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
  
