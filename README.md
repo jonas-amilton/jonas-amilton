@@ -27,7 +27,7 @@ Hi! I´m Jonas, and welcome to my profile! <img src="https://media.giphy.com/med
 <div align="center">
   <a href="https://github.com/jonas-amilton">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=7&theme=dracula"/>
+[![jonas-amilton](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&hide=html&layout=compact=true&theme=Dracula)](https://github.com/jonas-amilton/github-readme-stats)
 </div>
   
  
