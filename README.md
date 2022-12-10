@@ -11,9 +11,9 @@
 ##
 
 <ul>
-  <li>💻 Dev Front-end em formação na Growdev</li>
   <li>🎓 Estudante de Sistemas para Internet na Unisinos, no quarto semestre</li>
- <li>📱 Entusiasta de tecnologia, inovação, ciência e evolução humana</li>
+  <li>💻 Dev Front-end em formação na Growdev</li>
+  <li>📱 Entusiasta de tecnologia, inovação, ciência e evolução humana</li>
   <li>✊ "Obstáculos são oportunidades"</li>
 </ul>
 
