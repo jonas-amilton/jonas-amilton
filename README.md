@@ -1,4 +1,4 @@
-## Ola! Sou o Jonas e bem vindo(a) ao meu Github
+# Welcome to my repository!
 
 <div>
  
@@ -11,10 +11,10 @@
 ##
 
 <ul>
-  <li>🎓 Estudante de Sistemas para Internet na Unisinos, no quarto semestre</li>
-  <li>💻 Dev Front-end em formação na Growdev</li>
-  <li>📱 Entusiasta de tecnologia, inovação, ciência e evolução humana</li>
-  <li>✊ "Obstáculos são oportunidades"</li>
+  <li>🎓 Student of Internet Systems at Unisinos, in the fourth semester</li>
+  <li>💻 Learning web full stack developer in GrowDev</li>
+  <li>📱 Learning and coding cool stuff :)</li>
+  <li>🧑‍💻 My favorite programming language is JavaScript</li>
 </ul>
 
  ##
