@@ -23,6 +23,6 @@
 
 <div>
   <a href="https://github.com/jonas-amilton">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=7&theme=radical"/>
+  <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=7&theme=radical"/>
    <img align="right" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-amilton&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats"/>
 </div>
