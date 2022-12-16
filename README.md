@@ -11,7 +11,7 @@
 
  ##
 
-<div> 
+<div align="center"> 
  
  <a href="https://dev.to/jonasamilton" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-flat&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="https://www.linkedin.com/in/jonas-ag-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
