@@ -1,9 +1,9 @@
 # Welcome to my repository!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-amilton&show_icons=true&theme=radical&count_private=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-amilton&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats"/>
 </div>
 
 <div>
@@ -26,9 +26,3 @@
 </ul>
 
  ##
-
-<div align="center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-amilton&show_icons=true&theme=radical&count_private=true"/> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=8&theme=radical"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-amilton&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats"/>
-</div>
