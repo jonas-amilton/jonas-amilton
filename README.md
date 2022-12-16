@@ -1,6 +1,6 @@
  # Welcome to my repository!
 
-##
+ ##  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jonas-amilton&left_color=green&right_color=red)
 
 <ul>
   <li>🎓 Student of Internet Systems at Unisinos, in the fourth semester</li>
@@ -13,8 +13,6 @@
 
 <div> 
  
- ##  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jonas-amilton&left_color=green&right_color=red)
-
  <a href="https://dev.to/jonasamilton" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-flat&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="https://www.linkedin.com/in/jonas-ag-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
  <a href="https://stackoverflow.com/users/20708881/jonas-silva" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-flat&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
