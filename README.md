@@ -1,6 +1,6 @@
-# Welcome to my repository!
+ # Welcome to my repository!
 
-<div>
+<div> 
  
  ##  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jonas-amilton&left_color=green&right_color=red)
 
@@ -21,7 +21,7 @@
 
  ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jonas-amilton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-amilton&layout=compact&langs_count=7&theme=radical"/>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-amilton&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats"/>
