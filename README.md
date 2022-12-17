@@ -7,6 +7,7 @@
   <li>💻 Learning web full stack developer in GrowDev</li>
   <li>📱 Learning and coding cool stuff :)</li>
   <li>🧑‍💻 My favorite programming language is JavaScript</li>
+ <li>🎮 My favorite games are Resident Evil, Red Dead Redemption and The Witcher</li>
 </ul>
 
  ##
