@@ -5,7 +5,7 @@
 <ul>
   <li>🎓 Student of Internet Systems at Unisinos, in the fourth semester</li>
   <li>🗣️ Ambassador Teu Futuro</li>
-  <li>💻 Learning web full stack developer in GrowDev</li>
+  <li>💻 Learning Web Full stack developer in GrowDev</li>
   <li>📱 Learning and coding cool stuff :)</li>
   <li>🧑‍💻 My favorite programming language is JavaScript</li>
  <li>🎮 My favorite games are Resident Evil, Tony Hawk's, Assassin's Creed, Red Dead Redemption and The Witcher</li>
