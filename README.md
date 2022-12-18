@@ -4,6 +4,7 @@
 
 <ul>
   <li>🎓 Student of Internet Systems at Unisinos, in the fourth semester</li>
+  <li>🗣️ Ambassador Teu Futuro</li>
   <li>💻 Learning web full stack developer in GrowDev</li>
   <li>📱 Learning and coding cool stuff :)</li>
   <li>🧑‍💻 My favorite programming language is JavaScript</li>
