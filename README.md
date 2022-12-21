@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/jonas-ag-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
  <a href="https://stackoverflow.com/users/20708881/jonas-silva" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-flat&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
  <a href="https://www.twitch.tv/techjonas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-flat&logo=twitch&logoColor=white" alt="Twitch" /></a>
+ <a href="https://www.youtube.com/channel/UCENSb4uzt2RI-N-JKk6CMjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-flat&logo=youtube&logoColor=white" alt="Youtube" /></a>
  
 </div>
 
