@@ -20,7 +20,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor Front-end (jr)** \
 [**Marca RS Technology**](https://www.marcars.com.br/) • Estágio \
-Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`, `Support`
+Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
 
