@@ -13,6 +13,17 @@
 
  ##
 
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (intern)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
 <div align="center"> 
  
  <a href="https://dev.to/jonasamilton" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-flat&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
