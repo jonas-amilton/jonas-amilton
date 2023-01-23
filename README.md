@@ -3,7 +3,7 @@
  ##  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jonas-amilton&left_color=green&right_color=red)
 
 <ul>
-  <li>🎓 Estudante de Sistemas para Internet da Unisinos, no quarto semestre</li>
+  <li>🎓 Estudante de Sistemas para Internet na Unisinos, no quarto semestre</li>
   <li>🗣️ Embaixador Teu Futuro</li>
   <li>💻 Participando do Bootcamp de desenvolvimento Web Full stack da GrowDev</li>
   <li>📱 Aprendendo e codando coisas legais :)</li>
@@ -18,8 +18,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="95px" width="190px" alt="Marca RS Technology" src="https://www.marcars.com.br/templates/img/logo-marca-rs.png"/>](https://rocketseat.com.br/)
 
-**Desenvolvedor Front-end (jr)** \
-[**Marca RS Technology**](https://www.marcars.com.br/) • Estágio \
+**Desenvolvedor Front-end (estágiario)** \
+[**Marca RS Technology**](https://www.marcars.com.br/)
 Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
