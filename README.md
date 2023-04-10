@@ -4,10 +4,8 @@
 
 <ul>
   <li>🎓 Estudante de Sistemas para Internet na Unisinos, no quarto semestre</li>
-  <li>🗣️ Embaixador Teu Futuro</li>
   <li>💻 Participando do Bootcamp de desenvolvimento Web Full stack da GrowDev</li>
   <li>🧑‍💻 Minha linguagem de programação favorita é JavaScript</li>
- <li>🎮 Meus jogos favoritos são Resident Evil, Tony Hawk's, Assassin's Creed, Red Dead Redemption e The Witcher</li>
 </ul>
 
  ##
