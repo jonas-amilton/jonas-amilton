@@ -18,7 +18,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Front-end (estágiario)** \
 [**Marca RS Technology**](https://www.marcars.com.br/)
 Linguagens & Tecnologias: `Front end`, `JavaScript`, `HTML`, `CSS`, `Framework interno da empresa`, `Suporte`
-<!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
+<hr>
+Periodo: Jan 2023 a Abr 2023
 <br/>
 
 <div align="center"> 
