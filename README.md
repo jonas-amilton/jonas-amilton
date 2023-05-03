@@ -19,7 +19,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Marca RS Technology**](https://www.marcars.com.br/)
 Linguagens & Tecnologias: `Framework interno da empresa`, `Front end`, `JavaScript`, `HTML`, `CSS`
 <hr>
-Periodo: Jan 2023 a Abr 2023
+Jan 2023 a Abr 2023
 <br/>
 
 <div align="center"> 
