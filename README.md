@@ -4,7 +4,6 @@
 
 <ul>
   <li>🎓 Estudante de Sistemas para Internet na Unisinos, no quarto semestre</li>
-  <li>💻 Participando do Bootcamp de desenvolvimento Web Full stack da GrowDev</li>
   <li>🧑‍💻 Minha linguagem de programação favorita é JavaScript</li>
 </ul>
 
