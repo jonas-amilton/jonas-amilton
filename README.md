@@ -9,7 +9,7 @@
 </ul>
 
  ##
-
+<!--
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -21,7 +21,7 @@ Linguagens & Tecnologias: `Framework interno da empresa`, `Front end`, `JavaScri
 <hr>
 Jan 2023 a Abr 2023
 <br/>
-
+-->
 <div align="center"> 
  
  <a href="https://dev.to/jonasamilton" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-flat&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
