@@ -1,7 +1,5 @@
  # Bem vindo ao meu repositório!
 
- ##  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jonas-amilton&left_color=green&right_color=red)
-
 <!--
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
