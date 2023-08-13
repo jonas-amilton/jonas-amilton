@@ -2,12 +2,6 @@
 
  ##  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jonas-amilton&left_color=green&right_color=red)
 
-<ul>
-  <li>🎓 Estudante de Sistemas para Internet na Unisinos, no quarto semestre</li>
-  <li>🧑‍💻 Minha linguagem de programação favorita é JavaScript</li>
-</ul>
-
- ##
 <!--
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
