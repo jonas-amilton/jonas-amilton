@@ -18,7 +18,7 @@
 </div>
  
 ### Experiência
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 [<img align="left" height="70px" width="150px" alt="Atados" src="https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png"/>](https://rocketseat.com.br/)
 
