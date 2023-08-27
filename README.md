@@ -17,7 +17,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-amilton&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats"/>
 </div>
  
-### Experiência de trabalho
+### Experiência
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="70px" width="150px" alt="Atados" src="https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png"/>](https://rocketseat.com.br/)
