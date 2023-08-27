@@ -20,13 +20,26 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="95px" width="190px" alt="Marca RS Technology" src="https://www.marcars.com.br/templates/img/logo-marca-rs.png"/>](https://rocketseat.com.br/)
+[<img align="left" height="70px" width="150px" alt="Atados" src="https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png"/>](https://rocketseat.com.br/)
 
-**Desenvolvedor Front-end (estágiario)** \
-[**Marca RS Technology**](https://www.marcars.com.br/)
-Linguagens & Tecnologias: `Framework interno da empresa`, `Front end`, `JavaScript`, `HTML`, `CSS`
+**Desenvolvedor Front-end (voluntário)** | Abr 2023 a Atual
+<br/>
+[**Atados**](https://www.atados.com.br/)
+<br/>
+Linguagens & Tecnologias: `React JS`, `Front end`, `JavaScript`, `HTML`, `CSS`, `GIT`
 <hr>
-Jan 2023 a Abr 2023
+<br/>
+
+
+
+[<img align="left" height="70px" width="150px" alt="Marca RS Technology" src="https://www.marcars.com.br/templates/img/logo-marca-rs.png"/>](https://rocketseat.com.br/)
+
+**Desenvolvedor Front-end (estágiario)** | Jan 2023 a Abr 2023
+<br/>
+[**Marca RS Technology**](https://www.marcars.com.br/)
+<br/>
+Linguagens & Tecnologias: `Framework interno da empresa`, `Front end`, `JavaScript`, `HTML`, `CSS`, `GIT`
+<hr>
 <br/>
 
 ##
