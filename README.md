@@ -56,6 +56,3 @@ Linguagens & Tecnologias: `React JS`, `Front end`, `JavaScript`, `HTML`, `CSS`, 
 <br/>
 Linguagens & Tecnologias: `Framework interno da empresa`, `Front end`, `JavaScript`, `HTML`, `CSS`, `GIT`
 <hr>
-<br/>
-
-##
