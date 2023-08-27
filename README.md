@@ -1,6 +1,22 @@
  # Bem vindo ao meu repositório!
 
- ## Prazer, meu nome é Jonas 🤝
+<p>
+ Olá! Meu nome é Jonas, sou um desenvolvedor de software com experiência em:
+
+Linguagens de programação: JavaScript e seu superset Typescript.
+
+Bancos de dados: PostgreSQL.
+
+Front-end: React JS.
+
+Back-end: Node JS.
+
+Versionamento com Git.
+
+Estou aberto a novos desafios e continuo aprendendo e explorando tecnologias atualizadas.
+
+Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou para saber mais sobre minhas experiências e habilidades.
+</p>
 
 <div align="center"> 
  
