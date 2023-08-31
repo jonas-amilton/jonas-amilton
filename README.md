@@ -3,15 +3,15 @@
 <p>
  Olá! Meu nome é Jonas, sou um desenvolvedor de software com experiência em:
 
-Linguagens de programação: JavaScript e seu superset Typescript.
+Linguagens de programação: JavaScript (10 meses) e seu superset Typescript (6 meses).
 
-Bancos de dados: PostgreSQL.
+Bancos de dados: PostgreSQL (3 meses).
 
-Front-end: React JS.
+Front-end: React JS (8 meses).
 
-Back-end: Node JS.
+Back-end: Node JS (3 meses).
 
-Versionamento com Git.
+Versionamento com Git (10 meses).
 
 Estou aberto a novos desafios e continuo aprendendo e explorando tecnologias atualizadas.
 
