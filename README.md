@@ -1,7 +1,7 @@
  # Bem vindo ao meu repositório!
 
 <p>
- Olá! Meu nome é Jonas, sou um desenvolvedor de software com experiência em:
+Buenas! Meu nome é Jonas, sou um desenvolvedor de software com experiência em:
 
 Linguagens de programação: JavaScript (10 meses) e seu superset Typescript (6 meses).
 
