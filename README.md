@@ -1,9 +1,11 @@
- # Bem vindo ao meu repositório!
+ # Buenas! Meu nome é Jonas, sou um desenvolvedor de software JR
 
 <p>
-Buenas! Meu nome é Jonas, sou um desenvolvedor de software com experiência em:
+Minhas principais habilidades são Git, JavaScript, HTML, CSS, Flexbox e SQL.
 
-Linguagens de programação: JavaScript (10 meses) e seu superset Typescript (6 meses).
+A seguir, listo as tecnologias às quais tenho me dedicado, juntamente com os respectivos períodos de estudo entre parênteses:
+
+Linguagens de programação: JavaScript (10 meses) e seu superset TypeScript (6 meses).
 
 Bancos de dados: PostgreSQL (2 meses).
 
@@ -13,9 +15,7 @@ Back-end: Node JS (2 meses).
 
 Versionamento com Git (10 meses).
 
-Estou aberto a novos desafios e continuo aprendendo e explorando tecnologias atualizadas.
-
-Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou para saber mais sobre minhas experiências e habilidades.
+Estou aberto a novos desafios, sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração.
 </p>
 
 <div align="center"> 
