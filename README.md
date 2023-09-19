@@ -5,15 +5,15 @@ Minhas principais habilidades são Git, JavaScript, HTML, CSS, Flexbox e SQL.
 
 A seguir, listo as tecnologias às quais tenho me dedicado, juntamente com os respectivos períodos de estudo entre parênteses:
 
-Linguagens de programação: JavaScript (10 meses) e seu superset TypeScript (6 meses).
+Linguagens de programação: JavaScript (11 meses) e seu superset TypeScript (7 meses).
 
-Bancos de dados: PostgreSQL (2 meses).
+Bancos de dados: PostgreSQL (3 meses).
 
-Front-end: React JS (8 meses).
+Front-end: React JS (9 meses) e Angular JS (1 mês).
 
-Back-end: Node JS (2 meses).
+Back-end: Node JS (3 meses).
 
-Versionamento com Git (10 meses).
+Versionamento com Git (11 meses).
 
 Estou aberto a novos desafios, sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração.
 </p>
