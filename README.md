@@ -9,7 +9,7 @@ Linguagens de programação: JavaScript (11 meses) e seu superset TypeScript (7 
 
 Bancos de dados: PostgreSQL (3 meses).
 
-Front-end: React JS (9 meses) e Angular JS (1 mês).
+Front-end: React JS (9 meses), Bootstrap (9 meses) e Angular JS (1 mês).
 
 Back-end: Node JS (3 meses).
 
