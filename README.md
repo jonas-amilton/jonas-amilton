@@ -5,7 +5,7 @@ Minhas principais habilidades são Git, JavaScript, HTML, CSS, Bootstrap, , Reac
 
 A seguir, listo as tecnologias às quais tenho dedicado meu tempo para aprender:
 
-TypeScript, Angular JS e Node JS.
+TypeScript, Angular JS, Ionic e Node JS.
 
 </p>
 
