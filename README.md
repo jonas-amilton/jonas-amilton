@@ -31,7 +31,7 @@ Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 [<img align="left" height="70px" width="150px" alt="Atados" src="https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png"/>]([https://rocketseat.com.br/](https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png))
 
-**Desenvolvedor Front-end (voluntário)** | Abr 2023 a Atual
+**Desenvolvedor Front-end (voluntário)** | Abr 2023 a Out 2023
 <br/>
 [**Atados**](https://www.atados.com.br/)
 <br/>
