@@ -32,9 +32,7 @@ Na visão geral abaixo você encontrará minhas experiências mais recentes:
 [<img align="left" height="70px" width="150px" alt="Atados" src="https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png"/>]([https://rocketseat.com.br/](https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png))
 
 **Desenvolvedor Front-end (voluntário)** | Abr 2023 a Out 2023
-<br/>
-[**Atados**](https://www.atados.com.br/)
-<br/>
+<br/><br/>
 Linguagens & Tecnologias: `React JS`, `Front end`, `JavaScript`, `HTML`, `CSS`, `GIT`
 <hr>
 <br/>
@@ -44,8 +42,6 @@ Linguagens & Tecnologias: `React JS`, `Front end`, `JavaScript`, `HTML`, `CSS`, 
 [<img align="left" height="70px" width="150px" alt="Marca RS Technology" src="https://www.marcars.com.br/templates/img/logo-marca-rs.png"/>]([https://rocketseat.com.br/](https://www.marcars.com.br/templates/img/logo-marca-rs.png))
 
 **Desenvolvedor Front-end (estágiario)** | Jan 2023 a Abr 2023
-<br/>
-[**Marca RS Technology**](https://www.marcars.com.br/)
-<br/>
+<br/><br/>
 Linguagens & Tecnologias: `Framework interno da empresa`, `Front end`, `JavaScript`, `HTML`, `CSS`, `GIT`
 <hr>
