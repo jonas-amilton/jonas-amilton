@@ -1,7 +1,9 @@
  # Buenas! Meu nome é Jonas, sou um desenvolvedor de software JR
 
 <p>
-Minhas principais habilidades são Git, JavaScript, TypeScript, HTML, CSS, Bootstrap, React JS, Material UI, Flexbox e SQL.
+Minhas principais habilidades são:
+ 
+Git, JavaScript, TypeScript, HTML, CSS, Bootstrap, React JS, Material UI, Flexbox e SQL.
 
 A seguir, listo as tecnologias às quais tenho dedicado meu tempo para aprender:
 
