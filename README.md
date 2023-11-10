@@ -1,4 +1,4 @@
- # Buenas! Meu nome é Jonas, sou um desenvolvedor de software JR
+ # Buenas! Meu nome é Jonas, sou um desenvolvedor de software
 
 <p>
 Minhas principais habilidades são:
@@ -30,6 +30,14 @@ Node JS, PHP, MySql e PostgreSQL.
  
 ### Experiência
 Na visão geral abaixo você encontrará minhas experiências mais recentes:
+
+[<img align="left" height="70px" width="150px" alt="Ipasem" src="http://www.ipasemnh.com.br/img/logo.jpg"/>]([https://rocketseat.com.br/](http://www.ipasemnh.com.br/img/logo.jpg))
+
+**Desenvolvedor Fullstack (estágiario)** | Nov 2023 a atualmente
+<br/><br/>
+Linguagens & Tecnologias: `Desenvolvimento web`, `PHP`, `JavaScript`, `HTML`, `CSS`, `GIT`, `MySQL`
+<hr>
+<br/>
 
 [<img align="left" height="70px" width="150px" alt="Atados" src="https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png"/>]([https://rocketseat.com.br/](https://blog.atados.com.br/wp-content/uploads/2017/11/vetorizados_TODOS.png))
 
