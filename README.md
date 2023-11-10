@@ -1,4 +1,4 @@
- # Buenas! Meu nome é Jonas, sou um desenvolvedor de software
+ # Buenas! Meu nome é Jonas, seja bem vindo
 
 <p>
 Minhas principais habilidades são:
