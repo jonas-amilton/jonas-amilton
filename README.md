@@ -33,9 +33,9 @@ Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 [<img align="left" height="70px" width="150px" alt="Ipasem" src="http://www.ipasemnh.com.br/img/logo.jpg"/>]([https://rocketseat.com.br/](http://www.ipasemnh.com.br/img/logo.jpg))
 
-**Desenvolvedor Fullstack (estágiario)** | Nov 2023 a atualmente
+**Desenvolvedor Web (estágiario)** | Nov 2023 a atualmente
 <br/><br/>
-Linguagens & Tecnologias: `Desenvolvimento web`, `PHP`, `JavaScript`, `HTML`, `CSS`, `GIT`, `MySQL`
+Linguagens & Tecnologias: `Desenvolvimento web`, `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Yii`, `GIT`, `MySQL`
 <hr>
 <br/>
 
