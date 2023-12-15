@@ -35,7 +35,7 @@ Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 **Desenvolvedor Web (estágiario)** | Nov 2023 a atualmente
 <br/><br/>
-Linguagens & Tecnologias: `Desenvolvimento web`, `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Yii Framework`, `GIT`, `MySQL`
+Linguagens & Tecnologias: `Desenvolvimento web`, `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Yii Framework`, `jQuery`, `GIT`, `MySQL`, `Firebird`
 <hr>
 <br/>
 
