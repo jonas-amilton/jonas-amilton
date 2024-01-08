@@ -31,7 +31,7 @@ Node JS, PHP, MySql e PostgreSQL.
 ### Experiência
 Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
-[<img align="left" height="70px" width="150px" alt="Ipasem" src="http://www.ipasemnh.com.br/img/logo.jpg"/>]([https://rocketseat.com.br/](http://www.ipasemnh.com.br/img/logo.jpg))
+[<img align="left" height="70px" width="140px" alt="Ipasem" src="https://www.ipasemnh.com.br/images/logo.png"/>]([https://rocketseat.com.br/](http://www.ipasemnh.com.br/img/logo.jpg))
 
 **Desenvolvedor Web (estágiario)** | Nov 2023 a atualmente
 <br/><br/>
