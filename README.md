@@ -2,12 +2,14 @@
 
 <p>
 Minhas principais habilidades são:
- 
-Git, JavaScript, TypeScript, HTML, CSS, Bootstrap, React JS, Material UI, Flexbox e SQL.
-
-A seguir, listo as tecnologias às quais tenho dedicado meu tempo para aprender:
-
-Node JS, PHP, MySql e PostgreSQL.
+<br><br>
+Git, PHP, JavaScript, HTML, CSS, Bootstrap,
+Grid, Flexbox e SQL.
+<br><br>
+A seguir, listo as tecnologias às quais tenho
+dedicado meu tempo para aprender:
+<br><br>
+MySql, Firebird, Pjax, Yii Framework e Laravel.
 
 </p>
 
@@ -35,7 +37,7 @@ Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 **Desenvolvedor Web (estágiario)** | Nov 2023 a atualmente
 <br/><br/>
-Linguagens & Tecnologias: `Desenvolvimento web`, `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Yii Framework`, `jQuery`, `GIT`, `MySQL`, `Firebird`
+Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Yii Framework`, `Pjax`, `GIT`, `MySQL`, `Firebird`
 <hr>
 <br/>
 
