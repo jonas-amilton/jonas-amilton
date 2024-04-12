@@ -9,7 +9,7 @@ Grid, Flexbox e SQL.
 A seguir, listo as tecnologias às quais tenho
 dedicado meu tempo para aprender:
 <br><br>
-MySql, Firebird, Pjax, Yii Framework e Laravel.
+MySql, Firebird, Pjax, Yii Framework, Laravel e Linux.
 
 </p>
 
