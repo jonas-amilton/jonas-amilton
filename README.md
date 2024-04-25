@@ -25,10 +25,6 @@ MySql, Firebird, Pjax, Yii Framework, Laravel e Linux.
  
 </div>
 
-<div align="center">
-<a href="https://github.com/jonas-amilton">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-amilton&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats"/>
-</div>
  
 ## Experiência
 Na visão geral abaixo você encontrará minhas experiências mais recentes:
