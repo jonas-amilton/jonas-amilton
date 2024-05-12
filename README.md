@@ -12,8 +12,6 @@
  
 </div>
 
- 
-## Experiência
 Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 <hr>
