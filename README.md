@@ -1,17 +1,4 @@
- # Buenas! Meu nome é Jonas, seja bem vindo
-
-<p>
-Minhas principais habilidades são:
-<br><br>
-Git, PHP, JavaScript, HTML, CSS, Bootstrap,
-Grid, Flexbox e SQL.
-<br><br>
-A seguir, listo as tecnologias às quais tenho
-dedicado meu tempo para aprender:
-<br><br>
-MySql, Firebird, Pjax, Yii Framework, Laravel e Linux.
-
-</p>
+ # Buenas! Meu nome é Jonas, seja bem vindo ao meu GitHub
 
 <div align="center"> 
  
