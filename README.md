@@ -20,7 +20,7 @@ Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 [<img align="left" height="70px" width="140px" alt="Ipasem" src="https://www.ipasemnh.com.br/images/logo.png"/>]([https://rocketseat.com.br/](http://www.ipasemnh.com.br/img/logo.jpg))
 
-**Desenvolvedor Web PHP (estágiario) | Ipasem NH** | Nov 2023 a atualmente
+**Desenvolvedor Web PHP (estagiário) | Ipasem NH** | Nov 2023 a atualmente
 <br/><br/>
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Yii Framework`, `Pjax`, `GIT`, `MySQL`, `Firebird`,
 <hr>
@@ -28,7 +28,7 @@ Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Yii 
 
 [<img align="left" height="70px" width="100px" alt="Marca RS Technology" src="https://yt3.googleusercontent.com/Npr3_B3eltJfIVyX15KKPRg9dKvEkH6T-WMw6XTSdl0HCkpOS_KCSkWk7WckpPug62kHBu_Rfg=s176-c-k-c0x00ffffff-no-rj"/>]([https://rocketseat.com.br/](https://yt3.googleusercontent.com/Npr3_B3eltJfIVyX15KKPRg9dKvEkH6T-WMw6XTSdl0HCkpOS_KCSkWk7WckpPug62kHBu_Rfg=s176-c-k-c0x00ffffff-no-rj))
 
-**Desenvolvedor Front-end (estágiario) | Marca RS** | Jan 2023 a Abr 2023
+**Desenvolvedor Front-end (estagiário) | Marca RS** | Jan 2023 a Abr 2023
 <br/><br/>
 Linguagens & Tecnologias: `Framework interno da empresa`, `JavaScript`, `HTML`, `CSS`, `GIT`,
 
