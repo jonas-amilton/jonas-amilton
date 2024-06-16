@@ -1,5 +1,7 @@
  # Buenas! Meu nome é Jonas, seja bem vindo ao meu GitHub
 
+Atualmente meus repositórios estão privados, em breve estarei com o GitHub mais organizado, qualidade não é quantidade.
+
 Na visão geral abaixo você encontrará minhas experiências mais recentes:
 
 <hr>
