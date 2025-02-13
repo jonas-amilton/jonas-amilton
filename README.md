@@ -1,24 +1,11 @@
  # Buenas! Seja bem vindo ao meu GitHub
 
-```js
-import Desenvolvedor from "jonas-amilton";
+Me chamo Jonas, sou desenvolvedor PHP e atualmente estagiário no Ipasem NH. Tenho experiência com PHP, JavaScript e SQL, além de trabalhar com bancos de dados MySQL, PostgreSQL e Firebird.
 
-class SobreMim extends Desenvolvedor {
-  nome = "Jonas Silva";
-  area = "Desenvolvimento de Software";
-  trabalho = "Estagiário no Ipasem NH";
-  formacao = ["Sistemas para Internet", "Sistemas de Informação"];
-  local = "Novo Hamburgo";
-}
+Gosto de desenvolver usando frameworks como Yii, Laravel, Node.js, jQuery e Bootstrap e utilizo ferramentas como Git, Docker, VS Code, DBeaver e Postman no meu dia a dia. Trabalho tanto em Linux quanto em Windows, sou formado em Sistemas para Internet e estudante de Sistemas de Informação. Estou sempre buscando aprender mais e evoluir na área! 🚀
 
-class Skills extends Desenvolvedor {
-  linguagens = ["PHP", "JavaScript", "SQL"];
-  bancoDeDados = ["MySQL", "PostgreSQL"];
-  frameworks = ["Yii", "Laravel", "Node.js", "jQuery", "Bootstrap"];
-  ferramentas = ["Git", "Docker", "VScode", "DBeaver", "Postman"];
-  sistemasOperacionais = ["Linux", "Windows"];
-}
-```
-Assista minhas livecodes no Youtube!
+Estou fazendo livecoding para documentar minha evolução na programação. Te convido a me acompanhar criando projetos do zero em live.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techjonas/streams)
+
+[![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://m.twitch.tv/techjonas/home)
