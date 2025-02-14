@@ -21,7 +21,6 @@ Estou fazendo livecoding para documentar minha evolução na programação. Te c
   <img src="https://img.shields.io/badge/SQL-4f7dbf?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Yii-318174?style=for-the-badge&logo=Yii&logoColor=white" alt="Yii">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
