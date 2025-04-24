@@ -1,6 +1,6 @@
  ## Buenas!
 
-Me chamo Jonas, sou desenvolvedor PHP e atualmente estagiário no Ipasem NH. Tenho experiência com PHP, JavaScript e SQL, além de trabalhar com bancos de dados MySQL e PostgreSQL.
+Me chamo Jonas, sou desenvolvedor PHP. Tenho experiência com PHP, JavaScript e SQL, além de trabalhar com bancos de dados MySQL e PostgreSQL.
 
 Gosto de desenvolver usando frameworks como Yii, Laravel, Node.js, jQuery e Bootstrap e utilizo ferramentas como Git, Docker, VS Code, DBeaver e Postman no meu dia a dia. Trabalho tanto em Linux quanto em Windows, sou formado em Sistemas para Internet e estudante de Sistemas de Informação. Estou sempre buscando aprender mais e evoluir na área! 🚀
 
