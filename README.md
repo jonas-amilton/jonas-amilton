@@ -1,10 +1,8 @@
  ## Buenas!
 
-Me chamo Jonas, sou desenvolvedor PHP. Tenho experiência com PHP, JavaScript e SQL, além de trabalhar com bancos de dados MySQL e PostgreSQL.
+Me chamo Jonas, tenho experiência com PHP, JavaScript e SQL, já trabalhei com bancos de dados MySQL e PostgreSQL.
 
-Gosto de desenvolver usando frameworks como Yii, Laravel, Node.js, jQuery e Bootstrap e utilizo ferramentas como Git, Docker, VS Code, DBeaver e Postman no meu dia a dia. Trabalho tanto em Linux quanto em Windows, sou formado em Sistemas para Internet e estudante de Sistemas de Informação. Estou sempre buscando aprender mais e evoluir na área! 🚀
-
-Estou fazendo livecoding para documentar minha evolução na programação. Te convido a me acompanhar criando projetos do zero em live.
+Sou formado em Sistemas para Internet e estudante de Sistemas de Informação.
  
 <p align="left">
   <a href="https://www.youtube.com/@techjonas/streams">
@@ -27,9 +25,6 @@ Estou fazendo livecoding para documentar minha evolução na programação. Te c
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FFF?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
