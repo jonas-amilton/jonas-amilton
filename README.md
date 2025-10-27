@@ -8,7 +8,7 @@ Sou formado em Sistemas para Internet e estudante de Sistemas de Informação.
   <a href="https://www.youtube.com/@techjonas/streams">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://m.twitch.tv/techjonas/home">
+  <a href="https://m.twitch.tv/jonas_amilton/home">
     <img src="https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
 </p>
