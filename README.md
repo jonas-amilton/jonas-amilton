@@ -3,15 +3,6 @@
 Me chamo Jonas, tenho experiência com PHP, JavaScript e SQL, já trabalhei com bancos de dados MySQL e PostgreSQL.
 
 Sou formado em Sistemas para Internet e estudante de Sistemas de Informação.
- 
-<p align="left">
-  <a href="https://www.youtube.com/@techjonas/streams">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://m.twitch.tv/jonas_amilton/home">
-    <img src="https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
