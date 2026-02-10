@@ -1,9 +1,5 @@
 ## Buenas 👋
 
-Me chamo **Jonas** e atuo como desenvolvedor **Full Stack**, com foco em **Backend**.
-
-Tenho experiência no desenvolvimento de aplicações web e APIs, atuando no backend e frontend quando necessário, com atenção a boas práticas, organização de código, separação de responsabilidades, performance e manutenibilidade. Trabalho com bancos de dados relacionais, versionamento de código e ambientes Linux.
-
 🎓 **Formação**
 - Graduado em **Sistemas para Internet**
 - Estudante de **Sistemas de Informação**
