@@ -4,7 +4,7 @@
 - Graduado em **Sistemas para Internet**
 - Estudante de **Sistemas de Informação**
 
-  Além da faculdade, tenho focado meus estudos em Inglês, Estrutura de Dados e Algoritmos e DevOps 
+  Além da faculdade, tenho dedicado meus estudos em Inglês, Estrutura de Dados e Algoritmos e DevOps 
 
 🚀 **Tecnologias e Ferramentas**
 
