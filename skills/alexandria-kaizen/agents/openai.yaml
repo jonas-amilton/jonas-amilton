@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alexandria Kaizen"
+  short_description: "Safe support and learning workflows"
+  default_prompt: "Use $alexandria-kaizen to investigate this production bug with root cause, mitigation, minimal patch, and verification."
